@@ -5,7 +5,7 @@
     border: 1px solid black;
     padding: 0px 4px 0px 2px;
     border-radius: 5px;
-    margin: 100px auto;
+    margin: 10px ;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     background-color: white;
   
@@ -14,13 +14,11 @@
     border:1px solid #5D5FEF;
 }
 
-
 .img{
    width:18px;
    height: 18px;
    margin: 10px 10px 9px 16px; 
 }
-
 .input {
 width: 100%;
 padding: 1px 4px;
