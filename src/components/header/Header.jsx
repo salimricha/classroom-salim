@@ -8,11 +8,11 @@ import Button from '../button/Button';
 
 const Header = () => {
     return (
-        <div className="header">
-            <div className="logo">
+        <div className="flex justify-between px-5 py-3 bg-white">
+            <div>
                 <Logo />
             </div>
-            <div className="button-container">
+            <div className="flex gap-2.5">
                 <Button text = "Login" />
                 <Button text = "Register" />
             </div>
